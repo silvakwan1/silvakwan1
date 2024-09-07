@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor front-end e full-stack  
 🎓 Estudando Análise e Desenvolvimento de Sistemas na UDF Brasília  
-🌱 Aprendendo C e me aprimorando em JavaScript e Next.js  
+🌱 Aprendendo Python, java e me aprimorando em JavaScript e Next.js  
 🚀 Projetos disponíveis em [meu portfólio](https://github.com/silvakwan1)
 
 ## 🛠 Tecnologias:
@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📈 Minhas estatísticas no GitHub:
 
@@ -21,9 +22,4 @@
 
 ## 🔗 Me encontre:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/seu_perfil)
-
-## ✨ Minhas contribuições no GitHub:
-
-[Veja minhas contribuições em 3D!](https://skyline.github.com/silvakwan1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silva-kauan/)
