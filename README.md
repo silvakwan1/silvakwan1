@@ -1,6 +1,6 @@
 # Olá! Eu sou o Kauan 👋
 
-💻 Desenvolvedor front-end e full-stack  
+💻 Desenvolvedor Web e full-stack  
 🎓 Estudando Análise e Desenvolvimento de Sistemas na UDF Brasília  
 🌱 Aprendendo Python, java e me aprimorando em JavaScript e Next.js  
 🚀 Projetos disponíveis em [meu portfólio](https://www.silvakauan.site/)
